@@ -1,0 +1,6 @@
+framework module Pods_four_games {
+  umbrella header "Pods-four_games-umbrella.h"
+
+  export *
+  module * { export * }
+}
